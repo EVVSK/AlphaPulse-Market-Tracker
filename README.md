@@ -1,4 +1,4 @@
-# AlphaPulse: Custom Market Tracker
+# AlphaPulse: Equity Alpha & Volatility-Regime Engine
 
 ## Description
 
